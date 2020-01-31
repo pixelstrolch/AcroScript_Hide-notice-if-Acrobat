@@ -4,7 +4,7 @@ Document level script hides field with notice if the PDF document was opened in 
 
 ## How to use
 
-1. Open the “JavaScript” tool
+1. Open the “JavaScript” tool in Acrobat
 2. Open “Document JavaScripts”
 3. Type a script name and push the button “Add”
 4. Add the following code:
